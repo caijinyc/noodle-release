@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fewdo 规划分析"
+  short_description: "通过 Fewdo App 内置 CLI 查询任务、目标与专注记录，分析安排和复盘"
+  default_prompt: "使用 $fewdo-analysis，通过 Fewdo App 内置 CLI 分析我本周的任务安排、实际完成和目标推进情况。"
